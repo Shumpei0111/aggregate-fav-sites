@@ -1,3 +1,4 @@
+```
 root/
 ├── src/ # フロントエンド
 ├── data/
@@ -7,3 +8,4 @@ root/
 ├── package.json
 ├── docker-compose.yml
 └── .gitignore # data/postgres/ を除外するように設定
+```
